@@ -8,50 +8,36 @@
 
 ---
 
-## 🚀 **Tech Stack & Tools:**
+## 🛠️ Tech Toolbox:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,express,mongodb,tailwind,js,html,css,git,github,vscode,docker,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,vscode,docker" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📈 **GitHub Stats & Contributions:**
-
+## 📈 GitHub Analytics:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SUDHARSAN-KSRCT&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDHARSAN-KSRCT&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUDHARSAN-KSRCT&theme=radical" alt="GitHub Summary" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🐍 **Dynamic Contribution Snake (New Version)**:
+## 🎮 Contribution Snake:
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🔥 **Leetcode Profile Stats**:
-
-<p align="center">
-  <img src="https://leetcode.com/u/SUDHARSAN_CSBS/?theme=dark&font=Fira+Code&ext=contest" alt="Leetcode Stats" />
-</p>
-
----
-
-## 🌟 **Connect with Me:**
+## 🌟 Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sudharsan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://twitter.com/sudharsan"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:sudharsan.ksrct@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/SUDHARSAN-KSRCT/"><img src="https://img.shields.io/badge/Leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
