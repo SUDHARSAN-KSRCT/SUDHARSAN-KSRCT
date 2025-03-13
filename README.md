@@ -10,7 +10,7 @@
 
 ## 🚀 **Tech Stack & Tools:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,html,css,git,github,vscode,docker,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,express,mongodb,tailwind,js,html,css,git,github,vscode,docker,figma" alt="Tech Stack" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🔥 **Leetcode Profile Stats**:
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SUDHARSAN-KSRCT?theme=dark&font=Fira+Code&ext=contest" alt="Leetcode Stats" />
+  <img src="https://leetcode.com/u/SUDHARSAN_CSBS/?theme=dark&font=Fira+Code&ext=contest" alt="Leetcode Stats" />
 </p>
 
 ---
