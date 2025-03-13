@@ -17,7 +17,8 @@
 
 ## 📈 GitHub Analytics:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDHARSAN-KSRCT&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=SUDHARSAN-KSRCT&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUDHARSAN-KSRCT&theme=radical" alt="GitHub Summary" />
   <br />
