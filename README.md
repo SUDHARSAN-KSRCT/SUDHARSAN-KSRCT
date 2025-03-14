@@ -1,4 +1,4 @@
-# Hi there, I'm Sudharsan! 👋
+                        # Hi there, I'm Sudharsan! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
