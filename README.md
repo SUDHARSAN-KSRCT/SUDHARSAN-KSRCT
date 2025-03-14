@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=Sudharsan&animation=spin&fill=black&textfill=00FF00" alt="Animated Logo" width="200"/>
+</p>
+
 I'm a **Computer Science Student** passionate about **problem-solving, coding, and building cool projects**. I love exploring new technologies and contributing to open-source projects.
 
 ---
@@ -64,12 +68,6 @@ Here are some of my notable projects:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SUDHARSAN_CSBS/)
-
----
-
-## ⚡ Fun Fact
-
-I once solved 10 LeetCode problems in a single day! 🚀
 
 ---
 
