@@ -30,9 +30,14 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=radical)
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=SUDHARSAN-KSRCT&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=radical)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=radical&hide_border=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=radical&hide_border=true)
 
 ---
 
