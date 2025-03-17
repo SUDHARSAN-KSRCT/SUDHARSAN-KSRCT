@@ -1,18 +1,18 @@
-<h1 align="center">🐉 Welcome to My Dev Universe ] <span style="color:#E0B0FF">Sudharsan</span> 🚀</h1>
+<h1 align="center">🌿 Welcome to My GitHub Universe — <span style="color:#00FF00">Sudharsan</span> 🚀</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey+there!+I'm+Sudharsan;A+Passionate+Developer;Building+the+Future+with+Code;Dragon+by+Nature+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey+there!+I'm+Sudharsan;A+Passionate+Developer;Building+the+Future+with+Code;GitHub+Enthusiast+🌿)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=Sudharsan&animation=spin&fill=black&textfill=00FF00" alt="Animated Logo" width="200"/>
 </p>
 
-I'm a Web Developer with a fiery passion for **problem-solving, coding, and building innovative projects**. I thrive on exploring new technologies and contributing to open-source communities. Let's create something amazing together! 🚀
+I'm a **Computer Science Student** with a passion for **problem-solving, coding, and building innovative projects**. I love exploring new technologies and contributing to open-source communities. Let's create something amazing together! 🌟
 
 ---
 
 ## 🛠️ Tech Stack
 
-Here are some of the technologies and tools I wield like a dragon wields fire:
+Here are some of the technologies and tools I work with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,19 +34,20 @@ Here are some of the technologies and tools I wield like a dragon wields fire:
 ## 📈 GitHub Stats
 
 ### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SUDHARSAN-KSRCT&theme=dark&hide_border=true&background=0D1117&fire=FF7F50&currStreakLabel=FF7F50)
+![GitHub Streak](https://streak-stats.demolab.com?user=SUDHARSAN-KSRCT&theme=dark&hide_border=true&background=0D1117&fire=00FF00&currStreakLabel=00FF00)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F50&icon_color=FF7F50)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7F50)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00)
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Advanced Data Structures and Algorithms** 🧠
+- **Advanced Data Structures and Algorithms** 🌿
+- **Machine Learning and AI** 🤖
 - **Cloud Computing (AWS/GCP)** ☁️
 - **DevOps and CI/CD** 🛠️
 
@@ -56,19 +57,20 @@ Here are some of the technologies and tools I wield like a dragon wields fire:
 
 Here are some of my notable projects that I've built with passion and precision:
 
-- **[DragonScript](https://github.com/SUDHARSAN-KSRCT/DragonScript)**: A lightweight scripting language for automation and rapid prototyping.
-- **[FireForge](https://github.com/SUDHARSAN-KSRCT/FireForge)**: A blazing-fast web framework built with React and Node.js.
-- **[CloudDrake](https://github.com/SUDHARSAN-KSRCT/CloudDrake)**: A cloud-native application deployment tool for AWS and GCP.
+- **[CodeCraft](https://github.com/SUDHARSAN-KSRCT/CodeCraft)**: A platform for developers to collaborate on open-source projects.
+- **[GreenScript](https://github.com/SUDHARSAN-KSRCT/GreenScript)**: A lightweight scripting language for automation and rapid prototyping.
+- **[CloudNest](https://github.com/SUDHARSAN-KSRCT/CloudNest)**: A cloud-native application deployment tool for AWS and GCP.
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sudharsancsbs)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhasrancsbs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SUDHARSAN_CSBS/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUDHARSAN-KSRCT)
 
 ---
 
-⭐️ From [Sudharsan](https://github.com/SUDHARSAN-KSRCT) — Keep Coding, Keep Exploring! 🚀🔥
+⭐️ From [Sudharsan](https://github.com/SUDHARSAN-KSRCT) — Keep Coding, Keep Exploring! 🌿🚀
