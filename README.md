@@ -25,9 +25,11 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Profile
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SUDHARSAN_CSBS?theme=dark&font=Roboto)](https://leetcode.com/u/SUDHARSAN_CSBS/)
+
+I'm an active problem solver on **LeetCode**, constantly sharpening my skills in **Data Structures and Algorithms**. Check out my profile to see my progress and solutions! 🚀
 
 ---
 
@@ -70,6 +72,7 @@ Here are some of my notable projects that I've built with passion and precision:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SUDHARSAN_CSBS/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUDHARSAN-KSRCT)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) *(Add your portfolio link here)*
 
 ---
 
