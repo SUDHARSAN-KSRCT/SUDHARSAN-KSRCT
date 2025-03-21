@@ -6,7 +6,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=Sudharsan&animation=spin&fill=black&textfill=00FF00" alt="Animated Logo" width="200"/>
 </p>
 
-I'm a **Computer Science Student** with a passion for **problem-solving, coding, and building innovative projects**. I love exploring new technologies and contributing to open-source communities. Let's create something amazing together! 🌟
+I'm a **Computer Science and Business Systems Student** with a passion for **problem-solving, coding, and building innovative projects**. I love exploring new technologies and contributing to open-source communities. Let's create something amazing together! 🌟
 
 ---
 
