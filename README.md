@@ -1,79 +1,73 @@
-<h1 align="center">🌿 Welcome to My GitHub Universe — <span style="color:#00FF00">Sudharsan</span> 🚀</h1>
+<h1 align="center">🚀 Welcome to My GitHub Galaxy — <span style="color:#00FF00">Sudharsan</span> 🌌</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey+there!+I'm+Sudharsan;A+Passionate+Developer;Building+the+Future+with+Code;GitHub+Enthusiast+🌿)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey+there!+I'm+Sudharsan;A+Full-Stack+Web+Developer;Crafting+Futuristic+Web+Apps;MERN+Stack+Enthusiast+💻)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=github&text=Sudharsan&animation=spin&fill=black&textfill=00FF00" alt="Animated Logo" width="200"/>
 </p>
 
-I'm a **Computer Science and Business Systems Student** with a passion for **problem-solving, coding, and building innovative projects**. I love exploring new technologies and contributing to open-source communities. Let's create something amazing together! 🌟
+I'm a **Computer Science Student & Web Developer** passionate about **turning ideas into impactful projects**. I thrive on building modern web apps and tackling challenges with cutting-edge technologies. Let's innovate together! ✨
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-Here are some of the technologies and tools I work with:
+Here’s what’s in my toolkit:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,docker,tailwind" alt="Tech Stack" />
+</p>
 
 ---
 
-## 🏆 LeetCode Profile
+## 🏅 Competitive Coding
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SUDHARSAN_CSBS?theme=dark&font=Roboto)](https://leetcode.com/u/SUDHARSAN_CSBS/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SUDHARSAN_CSBS?theme=dark&font=FiraCode)](https://leetcode.com/u/SUDHARSAN_CSBS/)
 
-I'm an active problem solver on **LeetCode**, constantly sharpening my skills in **Data Structures and Algorithms**. Check out my profile to see my progress and solutions! 🚀
-
----
-
-## 📈 GitHub Stats
-
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SUDHARSAN-KSRCT&theme=dark&hide_border=true&background=0D1117&fire=00FF00&currStreakLabel=00FF00)
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00)
+I'm dedicated to improving my problem-solving skills through **Data Structures and Algorithms** on **LeetCode**. Check out my progress! 🚀
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Analytics
 
-- **Advanced Data Structures and Algorithms** 🌿
-- **Machine Learning and AI** 🤖
-- **Cloud Computing (AWS/GCP)** ☁️
-- **DevOps and CI/CD** 🛠️
+### 🔥 Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=SUDHARSAN-KSRCT&theme=radical&hide_border=true&background=0D1117&fire=00FF00&currStreakLabel=00FF00)
 
----
+### 🚀 Contribution Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
 
-## 💼 Featured Projects
-
-Here are some of my notable projects that I've built with passion and precision:
-
-- **[CodeCraft](https://github.com/SUDHARSAN-KSRCT/CodeCraft)**: A platform for developers to collaborate on open-source projects.
-- **[GreenScript](https://github.com/SUDHARSAN-KSRCT/GreenScript)**: A lightweight scripting language for automation and rapid prototyping.
-- **[CloudNest](https://github.com/SUDHARSAN-KSRCT/CloudNest)**: A cloud-native application deployment tool for AWS and GCP.
+### 🌟 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00)
 
 ---
 
-## 📫 Let's Connect!
+## 🌱 Learning & Growing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SUDHARSAN_CSBS/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUDHARSAN-KSRCT)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) *(Add your portfolio link here)*
+- **Advanced MERN Stack Development** 💪
+- **Next.js & Full-Stack Optimization** 🔥
+- **Cloud Computing & DevOps** ☁️
+- **Machine Learning Exploration** 🤖
 
 ---
 
-⭐️ From [Sudharsan](https://github.com/SUDHARSAN-KSRCT) — Keep Coding, Keep Exploring! 🌿🚀
+## 🌟 Featured Projects
+
+- 🚀 **[Aiswarya Academy](https://github.com/SUDHARSAN-KSRCT/Aiswarya-Academy)** — Comprehensive student management platform.
+- 🚖 **[Taxi Booking Web](https://github.com/SUDHARSAN-KSRCT/Taxi-Booking-Web)** — Real-time cab booking system with GPS tracking.
+- 🛒 **[Organic E-Commerce Website](https://github.com/SUDHARSAN-KSRCT/Organic-Ecommerce)** — A marketplace for sustainable and organic products.
+
+---
+
+## 📫 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/YourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:your.email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+✨ **From [Sudharsan](https://github.com/SUDHARSAN-KSRCT)** — Dream Big, Build Bigger! 🚀
+
