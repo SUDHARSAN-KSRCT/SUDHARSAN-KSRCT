@@ -18,12 +18,11 @@
 ---
 
 ## 🏅 Competitive Coding
-<div align="center">
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SUDHARSAN_CSBS?theme=dark&font=FiraCode)](https://leetcode.com/u/SUDHARSAN_CSBS/)
 
 I'm dedicated to improving my problem-solving skills through **Data Structures and Algorithms** on **LeetCode**. Check out my progress! 🚀
-</div>
----
+
 
 ## 📊 GitHub Analytics
 
