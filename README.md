@@ -1,3 +1,4 @@
+<h1 align="center">🚀 Welcome to My GitHub Galaxy — <span style="color:#00FF00">Sudharsan</span> 🌌</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+Universe;Full-Stack+Web+Developer;MERN+Stack+Architect;Innovating+One+Line+at+a+Time!" />
@@ -9,10 +10,10 @@
 
 ## 🛠️ Tech Arsenal
 
-Here’s what’s in my toolkit:
+### 🚀 My Dev Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,docker,tailwind" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,docker,tailwind,git,github,vscode,figma" alt="Tech Stack" />
 </p>
 
 ---
@@ -27,23 +28,23 @@ I'm dedicated to improving my problem-solving skills through **Data Structures a
 
 ## 📊 GitHub Analytics
 
-### 🔥 Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=SUDHARSAN-KSRCT&theme=radical&hide_border=true&background=0D1117&fire=00FF00&currStreakLabel=00FF00)
-
-### 🚀 Contribution Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)
-
-### 🌟 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDHARSAN-KSRCT&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=SUDHARSAN-KSRCT&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
 ## 🌱 Learning & Growing
 
-- **Advanced MERN Stack Development** 💪
-- **Next.js & Full-Stack Optimization** 🔥
-- **Cloud Computing & DevOps** ☁️
-- **Machine Learning Exploration** 🤖
+- 💪 **Advanced MERN Stack Development**
+- 🔥 **Next.js & Full-Stack Optimization**
+- ☁️ **Cloud Computing & DevOps**
+- 🤖 **Machine Learning Exploration**
+- 🚀 **Three.js for 3D Web Experiences**
 
 ---
 
@@ -73,3 +74,4 @@ I'm dedicated to improving my problem-solving skills through **Data Structures a
 ---
 
 ✨ **From [Sudharsan](https://github.com/SUDHARSAN-KSRCT)** — Dream Big, Build Bigger! 🚀
+
