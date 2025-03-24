@@ -54,9 +54,6 @@ I'm dedicated to improving my problem-solving skills through **Data Structures a
 
 ---
 
-## 🎯 Portfolio
-
-✨ Check out my portfolio: [sudharsan-portfolio.com](https://sudharsansite.netlify.app/)
 
 ---
 
@@ -65,7 +62,7 @@ I'm dedicated to improving my problem-solving skills through **Data Structures a
 <p align="center">
   <a href="https://www.linkedin.com/in/sudharsancsbs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sudharsancsbs@gmail.com" target=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://sudharsan-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://sudharsansite.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
