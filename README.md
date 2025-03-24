@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey+there!+I'm+Sudharsan;A+Full-Stack+Web+Developer;Crafting+Futuristic+Web+Apps;MERN+Stack+Enthusiast+💻)](https://git.io/typing-svg)
 
-
 I'm a **Computer Science Student & Web Developer** passionate about **turning ideas into impactful projects**. I thrive on building modern web apps and tackling challenges with cutting-edge technologies. Let's innovate together! ✨
 
 ---
