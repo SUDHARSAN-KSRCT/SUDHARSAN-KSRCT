@@ -10,20 +10,19 @@
 
 ## 🛠️ Tech Arsenal
 
-### 🚀 My Dev Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,docker,tailwind,git,github,vscode,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,git,github,vscode,figma" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 🏅 Competitive Coding
-
+<div align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SUDHARSAN_CSBS?theme=dark&font=FiraCode)](https://leetcode.com/u/SUDHARSAN_CSBS/)
 
 I'm dedicated to improving my problem-solving skills through **Data Structures and Algorithms** on **LeetCode**. Check out my progress! 🚀
-
+</div>
 ---
 
 ## 📊 GitHub Analytics
