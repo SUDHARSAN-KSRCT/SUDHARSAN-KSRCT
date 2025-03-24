@@ -1,12 +1,3 @@
-<h1 align="center">🚀 Welcome to My GitHub Galaxy — <span style="color:#00FF00">Sudharsan</span> 🌌</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hey+there!+I'm+Sudharsan;A+Full-Stack+Web+Developer;Crafting+Futuristic+Web+Apps;MERN+Stack+Enthusiast+💻)](https://git.io/typing-svg)
-
-I'm a **Computer Science Student & Web Developer** passionate about **turning ideas into impactful projects**. I thrive on building modern web apps and tackling challenges with cutting-edge technologies. Let's innovate together! ✨
-
----
-
-## 🌌✨ Animated Introduction
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+Universe;Full-Stack+Web+Developer;MERN+Stack+Architect;Innovating+One+Line+at+a+Time!" />
