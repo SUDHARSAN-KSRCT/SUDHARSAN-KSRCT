@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to My GitHub Galaxy — <span style="color:#00FF00">Sudharsan</span> 🌌</h1>
+<h1 align="center">🚀 Welcome to My GitHub Galaxy — <span style="color:#00FF00">Sudharsan</span> 📈🐦‍🔥</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+My+Universe;Full-Stack+Web+Developer;MERN+Stack+Architect;Innovating+One+Line+at+a+Time!" />
