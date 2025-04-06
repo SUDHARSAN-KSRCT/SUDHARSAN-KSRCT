@@ -48,7 +48,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/output/github-contribution-grid-snake.svg" />
+ <img alt="snake animation dark" src="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+
   <br/><br/><br/>
 </div>
 
