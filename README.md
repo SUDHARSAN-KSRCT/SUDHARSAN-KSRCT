@@ -11,11 +11,8 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **a marketplace**
 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/SUDHARSAN-KSRCT)**
+ 💬 Ask me about **Java, React,UI?UX ... or anything [here](https://github.com/SUDHARSAN-KSRCT)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -57,13 +54,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>  
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SUDHARSAN-KSRCT&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SUDHARSAN-KSRCT&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
-  [![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/SUDHARSAN_CSBS/)  
-  <br/>  
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SUDHARSAN-KSRCT&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />  
-</div>  
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SUDHARSAN-KSRCT&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SUDHARSAN-KSRCT&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
