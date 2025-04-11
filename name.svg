@@ -10,7 +10,9 @@
         font: 700 48px 'Orbitron', sans-serif;
         fill: url(#grad);
         animation: glow 5s infinite ease-in-out;
+        letter-spacing: 2px;
       }
+
       @keyframes glow {
         0%, 100% {
           filter: drop-shadow(0 0 4px #00ffe5);
@@ -19,16 +21,20 @@
           filter: drop-shadow(0 0 10px #ff00f2);
         }
       }
+
       .sparkle {
         fill: white;
-        opacity: 0.6;
-        font-size: 20px;
-        animation: float 6s ease-in-out infinite, spin 4s linear infinite;
+        opacity: 0.7;
+        font-size: 18px;
+        animation: float 6s ease-in-out infinite, spin 8s linear infinite;
+        pointer-events: none;
       }
+
       @keyframes float {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
+        50% { transform: translateY(-6px); }
       }
+
       @keyframes spin {
         0% { transform: rotate(0deg); }
         100% { transform: rotate(360deg); }
@@ -36,63 +42,14 @@
     </style>
   </defs>
 
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" class="text">
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="text">
     SUDHARSAN P
   </text>
 
-  <!-- Sparkles -->
-  <text x="100" y="30" class="sparkle">✦</text>
-  <text x="200" y="40" class="sparkle">✧</text>
-  <text x="300" y="25" class="sparkle">✦</text>
-  <text x="500" y="30" class="sparkle">✧</text>
-  <text x="600" y="20" class="sparkle">✦</text>
-</svg>
-<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="#00ffe5" />
-      <stop offset="50%" stop-color="#ff00f2" />
-      <stop offset="100%" stop-color="#00ffe5" />
-    </linearGradient>
-    <style>
-      .text {
-        font: 700 48px 'Orbitron', sans-serif;
-        fill: url(#grad);
-        animation: glow 5s infinite ease-in-out;
-      }
-      @keyframes glow {
-        0%, 100% {
-          filter: drop-shadow(0 0 4px #00ffe5);
-        }
-        50% {
-          filter: drop-shadow(0 0 10px #ff00f2);
-        }
-      }
-      .sparkle {
-        fill: white;
-        opacity: 0.6;
-        font-size: 20px;
-        animation: float 6s ease-in-out infinite, spin 4s linear infinite;
-      }
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
-      }
-      @keyframes spin {
-        0% { transform: rotate(0deg); }
-        100% { transform: rotate(360deg); }
-      }
-    </style>
-  </defs>
-
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" class="text">
-    SUDHARSAN P
-  </text>
-
-  <!-- Sparkles -->
-  <text x="100" y="30" class="sparkle">✦</text>
-  <text x="200" y="40" class="sparkle">✧</text>
-  <text x="300" y="25" class="sparkle">✦</text>
-  <text x="500" y="30" class="sparkle">✧</text>
-  <text x="600" y="20" class="sparkle">✦</text>
+  <!-- Sparkles (custom placement for balance) -->
+  <text x="120" y="35" class="sparkle">✦</text>
+  <text x="250" y="50" class="sparkle">✧</text>
+  <text x="390" y="20" class="sparkle">✦</text>
+  <text x="540" y="45" class="sparkle">✧</text>
+  <text x="670" y="25" class="sparkle">✦</text>
 </svg>
