@@ -1,64 +1,98 @@
-<svg viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        h1 {
-          font-family: 'Poppins', 'Segoe UI', sans-serif;
-          font-size: 4em;
-          font-weight: 800;
-          margin: 0;
-          text-align: center;
-          background: linear-gradient(270deg, #00eaff, #ff00ff, #7eff8e);
-          background-size: 600% 600%;
-          background-clip: text;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          animation: shimmer 5s ease-in-out infinite;
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#00ffe5" />
+      <stop offset="50%" stop-color="#ff00f2" />
+      <stop offset="100%" stop-color="#00ffe5" />
+    </linearGradient>
+    <style>
+      .text {
+        font: 700 48px 'Orbitron', sans-serif;
+        fill: url(#grad);
+        animation: glow 5s infinite ease-in-out;
+      }
+      @keyframes glow {
+        0%, 100% {
+          filter: drop-shadow(0 0 4px #00ffe5);
         }
-
-        @keyframes shimmer {
-          0% {
-            background-position: 0% 50%;
-            text-shadow: 0 0 6px #00eaff80;
-          }
-          50% {
-            background-position: 100% 50%;
-            text-shadow: 0 0 12px #ff00ffaa;
-          }
-          100% {
-            background-position: 0% 50%;
-            text-shadow: 0 0 6px #7eff8e80;
-          }
+        50% {
+          filter: drop-shadow(0 0 10px #ff00f2);
         }
+      }
+      .sparkle {
+        fill: white;
+        opacity: 0.6;
+        font-size: 20px;
+        animation: float 6s ease-in-out infinite, spin 4s linear infinite;
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    </style>
+  </defs>
 
-        .sparkle {
-          color: #ffffffcc;
-          font-size: 1em;
-          font-family: Arial, sans-serif;
-          animation: float 6s ease-in-out infinite;
-          display: inline-block;
-          margin: 0 3px;
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" class="text">
+    SUDHARSAN P
+  </text>
+
+  <!-- Sparkles -->
+  <text x="100" y="30" class="sparkle">✦</text>
+  <text x="200" y="40" class="sparkle">✧</text>
+  <text x="300" y="25" class="sparkle">✦</text>
+  <text x="500" y="30" class="sparkle">✧</text>
+  <text x="600" y="20" class="sparkle">✦</text>
+</svg>
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#00ffe5" />
+      <stop offset="50%" stop-color="#ff00f2" />
+      <stop offset="100%" stop-color="#00ffe5" />
+    </linearGradient>
+    <style>
+      .text {
+        font: 700 48px 'Orbitron', sans-serif;
+        fill: url(#grad);
+        animation: glow 5s infinite ease-in-out;
+      }
+      @keyframes glow {
+        0%, 100% {
+          filter: drop-shadow(0 0 4px #00ffe5);
         }
-
-        @keyframes float {
-          0% { transform: translateY(0); opacity: 0.7; }
-          50% { transform: translateY(-6px); opacity: 1; }
-          100% { transform: translateY(0); opacity: 0.7; }
+        50% {
+          filter: drop-shadow(0 0 10px #ff00f2);
         }
+      }
+      .sparkle {
+        fill: white;
+        opacity: 0.6;
+        font-size: 20px;
+        animation: float 6s ease-in-out infinite, spin 4s linear infinite;
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    </style>
+  </defs>
 
-        .sparkles {
-          text-align: center;
-          margin-top: 5px;
-        }
-      </style>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" class="text">
+    SUDHARSAN P
+  </text>
 
-      <h1>SUDHARSAN P</h1>
-      <div class="sparkles">
-        <span class="sparkle">✦</span>
-        <span class="sparkle">✧</span>
-        <span class="sparkle">✦</span>
-        <span class="sparkle">✧</span>
-      </div>
-    </div>
-  </foreignObject>
+  <!-- Sparkles -->
+  <text x="100" y="30" class="sparkle">✦</text>
+  <text x="200" y="40" class="sparkle">✧</text>
+  <text x="300" y="25" class="sparkle">✦</text>
+  <text x="500" y="30" class="sparkle">✧</text>
+  <text x="600" y="20" class="sparkle">✦</text>
 </svg>
