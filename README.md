@@ -42,14 +42,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img alt="snake animation dark" src="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
