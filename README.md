@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/SUDHARSAN/martonlederer/master/name.svg" alt="SUDHARSAN P" />
+  <img src="https://raw.githubusercontent.com/SUDHARSAN-KSRCT/SUDHARSAN-KSRCT/main/name.svg" alt="SUDHARSAN P" />
 </h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=SUDHARSAN-KSRCT&label=Profile%20views&color=0e75b6&style=flat" alt="SUDHARSAN-KSRCT" /> 
